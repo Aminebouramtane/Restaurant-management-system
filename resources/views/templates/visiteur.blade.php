@@ -32,15 +32,15 @@
         <li class="nav-item">
           <a class="nav-link" href="#">Localisation et horaires</a>
         </li>
-       
+
         <li class="nav-item">
           <a class="nav-link" href="#">Contact</a>
         </li>
          <li class="nav-item">
-          <a class="nav-link" href="#">Login</a>
+          <a class="nav-link" href="{{route('login')}}">Login</a>
         </li>
       </ul>
-      
+
     </div>
   </div>
 </nav>
