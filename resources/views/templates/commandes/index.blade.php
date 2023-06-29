@@ -17,6 +17,7 @@
                         <li>{{ $plat->intitule}} ({{$plat->pivot->nombre}})</li>
                         @endforeach
                     </ul>
+                    
                 </td>
 
 
